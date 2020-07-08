@@ -1,7 +1,7 @@
 # COFIT
 COVID-19 model PSEIRD(S) 
 
-This repository includes the fitteia(R) PSEIRD(S) model fit templates to analyse COVID-19 data time series.
+This repository includes the fitteia(R) PSEIRD(S) model fit templates to analyse COVID-19 data series.
 
 You can try using fitteia to fit any SIR-based compartment model to the statistical data of the people infected with coronavirus. 
 In particular, you can try to fit PSEIRD(S) model to the data collected for IT, DE, CA, IR, CH, JP, IL, AT, KR, IS, and NZ.
