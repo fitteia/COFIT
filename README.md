@@ -8,7 +8,7 @@ This repository includes the fitteia(R) PSEIRD(S) model fit templates to analyse
 You can try using fitteia to fit any SIR-based compartment model to the statistical data of the people infected with coronavirus. 
 In particular, you can try to fit PSEIRD(S) model to the data collected for IT, DE, CA, IR, CH, JP, IL, AT, KR, IS, and NZ.
 
-Choose and download to your computer the latest contents of fitteia/cov repository and unzip the file.
+Choose and download to your computer the latest contents of fitteia/COFIT repository and unzip the file.
 
 Register/Login at http://fitteia.org into your fitteia account and select your working folder by clicking on the respective link in the page.
 
