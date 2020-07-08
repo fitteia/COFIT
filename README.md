@@ -1,7 +1,7 @@
 # COFIT
 COVID-19 model PSEIRD(S) 
 
-This repository includes the fitteia(R) PSEIRD(S) model fit templates to analyse COVID-19 data serie
+This repository includes the fitteia(R)[http://fitteia.org] PSEIRD(S) model fit templates to analyse COVID-19 data serie
 
 (AVAILABLE UPON ACCEPTANCE OF THE PAPER).
 
