@@ -1,10 +1,9 @@
 # COFIT
 COVID-19 model PSEIRD(S) 
 
-A modified version of the PSEIRD(S) model was already peer reviewed and accepted for publication. The corresponding template can be found in the Scientific Reports section - https://github.com/fitteia/Scientific-Reports.
+A modified version of the PSEIRD(S) model was already peer reviewed and accepted for publication. The corresponding template can be found in the fitteia/Scientific-Reports section - https://github.com/fitteia/Scientific-Reports.
 
-
-This repository includes the fitteia(R)[http://fitteia.org] PSEIRD(S) model fit templates to analyse COVID-19 data series and also the supplementary material for the paper being submitted.
+This fitteia/COFIT repository includes the fitteia(R)[http://fitteia.org] PSEIRD(S) model fit templates to analyse COVID-19 data series and also the supplementary material for the paper being submitted.
 
 (AVAILABLE UPON ACCEPTANCE OF THE PAPER) 
 
