@@ -3,7 +3,7 @@ COVID-19 model PSEIRD(S)
 
 This repository includes the fitteia(R)[http://fitteia.org] PSEIRD(S) model fit templates to analyse COVID-19 data series and also the supplementary material for the paper being submitted.
 
-(AVAILABLE UPON ACCEPTANCE OF THE PAPER).
+(AVAILABLE UPON ACCEPTANCE OF THE PAPER) - A modified version of the PSEIRD(S) model was already peer reviewed and accepted for publication. The corresponding template can be found in the Scientific Reports section - https://github.com/fitteia/Scientific-Reports.
 
 You can try using fitteia to fit any SIR-based compartment model to the statistical data of the people infected with coronavirus. 
 In particular, you can try to fit PSEIRD(S) model to the data collected for IT, DE, CA, IR, CH, JP, IL, AT, KR, IS, and NZ [https://github.com/CSSEGISandData/COVID-19].
